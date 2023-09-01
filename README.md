@@ -9,4 +9,5 @@ I also wanted to make the process public and potentially allow contributions, he
 
 There is also a forum discussion for this project: https://kulupu.pona.la/d/68-pipi-utala-pi-insa-ala--hollow-knight-toki-pona-translation
 
-Feel free to use this however you'd like.
+Original text belongs to Team Cherry, I have no rights over that.
+When it comes to the toki pona translation, feel free to use it however you'd like.
