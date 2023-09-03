@@ -50,17 +50,17 @@ CHARACTERS:
 - traitor lord -> pipi wawa lawa nasa
 - Soul Master -> pipi pi lawa kon
 - Soul Tyrant -> pipi wawa pi lawa kon
-- Dung Defender - pipi awen pi jaki soweli
-- White Defender - pipi awen walo
-- Broken Vessel - poki pakala
-- Lost Kin - pipi sama weka
-- Collector - pipi jo
+- Dung Defender -> pipi awen pi jaki soweli
+- White Defender -> pipi awen walo
+- Broken Vessel -> poki pakala
+- Lost Kin -> pipi sama weka
+- Collector -> pipi jo
 - Lurien the Watcher -> pipi lukin Luli
 - Monomon the teacher -> pipi sona Monomon
 - Herra the Beast -> pipi monsuta Ela
 - The Hollow Knigh -> pipi utala pi insa ala
-- The Radiance - sewi suno
-- Grimm Troupe - kulupu musi Kin
+- The Radiance -> sewi suno
+- Grimm Troupe -> kulupu musi Kin
 - Troupe Master Grimm -> pipi lawa Kin pi kulupu musi
 - Nightmare King -> pipi lawa pi lape monsuta
 - Hunter -> monsuta alasa
@@ -76,15 +76,22 @@ ITEMS:
 - mask -> len sinpin
 - Pure Nail -> palisa utala pi pona ale
 
+CHARMS:
+- compass -> kiwen wawa pi sona nasin
+
 SUBSTANCES:
-- Abyss - wawa pimeja
+- Abyss -> wawa pimeja
 - soul -> kon
 - essence -> kon pilin
+- acid -> telo pakala
+- crystal -> kiwen kule
 
 LOCATIONS
-- Hallownest - ma Alone
-- Greenpath - nasin laso
-- Kingdom's Edge - ma pini
+- Hallownest -> ma Alone
+- Crossroads -> ma pi nasin mute
+- Dirtmouth -> ma tomo Toma
+- Greenpath -> nasin laso
+- Kingdom's Edge -> ma pini
 - Colosseum of Fools -> tomo utala pi pipi nasa
 - Godhome -> tomo sewi
 - Pantheon -> tomo sewi utala
