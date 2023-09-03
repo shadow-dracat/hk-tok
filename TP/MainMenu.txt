@@ -1,5 +1,5 @@
 <entries>
-<entry name="LANG_TO">toki pona</entry>
+<entry name="LANG_TP">toki pona</entry>
 <entry name="GAME_BACKER_NAMES">Backer Credits:</entry>
 <entry name="UI_MENU_ACHIEVEMENTS_XB1">Achievements</entry>
 <entry name="DESC_VSYNC">Leave on for a smoother experience. Prevents screen tearing.</entry>
