@@ -1,7 +1,7 @@
 # Hollow Knight toki pona translation
 
 I got an idea to translate Hollow Knight into toki pona, because:
-1) I didn't find any with a quick search;
+1) I didn't find any existing translation with a quick search;
 2) I love Hollow Knight;
 3) I like toki pona.
 
@@ -14,9 +14,12 @@ I also often sit in ma pona's VC while working on this. You can find me on Disco
 Original text belongs to Team Cherry, I have no rights over that.
 When it comes to the toki pona translation, feel free to add it to your game, play, stream, whatever. Credit is appreciated, but not necessary.
 
-Current progress: 3/36 files.
+Current progress: 3.4/36 files.
 
 Translated files:
 - Achievements.txt
 - Banker.txt
 - Charm Slug.txt
+
+In progress:
+- Cornifer.txt
