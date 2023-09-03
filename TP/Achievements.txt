@@ -127,7 +127,8 @@
 <entry name="ACH_TEXT_TEST">ni la toki pi pali wile li lon</entry>
 <entry name="CHARMED_TEXT">o kama jo e kiwen wawa wan</entry>
 <entry name="WHITE_DEFENDER2_TEXT">o kama nanpa wan lon lape pi pipi awen walo</entry>
-<entry name="DUNG_DEFENDER_TEXT">o anpa e pipi awen jaki</entry>
+<entry name="DUNG_DEFENDER_TEXT">o anpa e pipi awen pi jaki soweli</entry>
+<entry name="LANG_TOK">toki pona</entry>
 <entry name="MAP_TEXT">o kama jo e sitelen ma pi ma ale</entry>
 <entry name="COMPLETIONGG_TITLE">ale musi</entry>
 <entry name="STEELSOUL_TITLE">kon kiwen</entry>
