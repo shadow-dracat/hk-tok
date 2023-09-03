@@ -1,0 +1,101 @@
+This is a work in progress, I do not guarantee that everything is accounted for, but I try my best - jKinsen
+
+NOTES:
+- for tokiponizations I usually go for the "preserve syllable count" way.
+- essence-related things use "pilin", infection can use "jaki". Deamers and the word "nightmare" can still use "lape", fools are "nasa"
+- default headnouns are "pipi". Hunter is "monsuta" because it has those vibes to me.
+- I try to avoid pi nesting as mush as possible. The main place where this would happen is achievements. This influences the naming process.
+- endearment terms can be "suwi", "pipi suwi" or "pipi suwi mi" etc.
+- exclamations like "oh goodness", "oh dear" etc. are "sewi o".
+- I don't prolong "n" for "mmmm"/"hhmmmmm", but I can prolong "a" and "mu". This convention can be changed, and ultimately, this doesn't matter as much.
+
+CREATURES:
+- grub -> pipi linja
+- grubberfly -> pipi waso ante
+- stag -> pipi tawa
+- mantis -> pipi wawa
+- spider/beast -> pipi monsuta
+- moth -> pipi waso
+- mushroom -> soko
+- bee - pipi suwi
+- vessel -> poki
+- shade -> kon pimeja
+- higher being/god -> sewi
+
+OCCUPATIONS/ROLES:
+- seller/customer -> pipi esun
+- knight -> pipi utala
+- warrior -> pipi utala wawa
+- master/nailmaster -> pipi utala ken
+- sage -> pipi utala sona
+- banker -> pipi pi awen mani
+- dreamer -> pipi lape
+- fool -> pipi nasa
+- cartographer -> pipi pi sitelen ma
+- hunter -> pipi alasa
+
+CHARACTERS:
+- The Hollow Knight -> pipi utala pi insa ala
+- Hornet -> pipi One
+- Quirrel -> pipi Kile
+- Cloth -> pipi Lo
+- Zote -> pipi So
+- Cornifer -> pipi Konipe
+- Iselda -> pipi Iseta
+- Seer -> pipi waso sona
+- Grey Prince -> pipi lawa lili pi pimeja walo
+- Grey Mourner -> pipi walo pimeja pi pilin ike
+- False Knight -> pipi utala pi lon ala
+- mantis lords -> pipi wawa lawa
+- traitor lord -> pipi wawa lawa nasa
+- Soul Master -> pipi pi lawa kon
+- Soul Tyrant -> pipi wawa pi lawa kon
+- Dung Defender - pipi awen pi jaki soweli
+- White Defender - pipi awen walo
+- Broken Vessel - poki pakala
+- Lost Kin - pipi sama weka
+- Collector - pipi jo
+- Lurien the Watcher -> pipi lukin Luli
+- Monomon the teacher -> pipi sona Monomon
+- Herra the Beast -> pipi monsuta Ela
+- The Hollow Knigh -> pipi utala pi insa ala
+- The Radiance - sewi suno
+- Grimm Troupe - kulupu musi Kin
+- Troupe Master Grimm -> pipi lawa Kin pi kulupu musi
+- Nightmare King -> pipi lawa pi lape monsuta
+- Hunter -> monsuta alasa
+- Herald -> soko Ela
+
+ITEMS:
+- charm -> kiwen wawa
+- geo -> mani Sijo
+- nail -> palisa utala
+- dreamnail -> palisa pilin
+- map -> sitelen ma
+- soul vessel -> poki kon
+- mask -> len sinpin
+- Pure Nail -> palisa utala pi pona ale
+
+SUBSTANCES:
+- Abyss - wawa pimeja
+- soul -> kon
+- essence -> kon pilin
+
+LOCATIONS
+- Hallownest - ma Alone
+- Greenpath - nasin laso
+- Kingdom's Edge - ma pini
+- Colosseum of Fools -> tomo utala pi pipi nasa
+- Godhome -> tomo sewi
+- Pantheon -> tomo sewi utala
+
+OTHER:
+- Salubra's blessing -> pona Salupa
+- Steel Soul mode -> musi pi kon kiwen
+- trial of the Warrior -> utala pi pipi utala wawa
+- trial of the Conqueror -> utala pi pipi kama
+- trial of the Fool -> utala pi pipi nasa
+- game completion -> mute musi
+- ritual -> pali sewi
+- game achievemt -> pali wile
+

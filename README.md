@@ -6,6 +6,7 @@ I got an idea to translate Hollow Knight into toki pona, because:
 3) I like toki pona.
 
 I also wanted to make the process public and potentially allow contributions, hence this Github page.
+If you want to contribute - check out the glossary file, it has some notes and naming conventions. Those can be changed, but the file should reflect the current standart.
 
 There is also a forum discussion for this project: https://kulupu.pona.la/d/68-pipi-utala-pi-insa-ala--hollow-knight-toki-pona-translation
 
