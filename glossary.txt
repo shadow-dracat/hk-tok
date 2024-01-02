@@ -80,7 +80,7 @@ CHARMS:
 - compass -> kiwen wawa pi sona nasin
 
 SUBSTANCES:
-- Abyss -> wawa pimeja
+- void -> wawa pimeja
 - soul -> kon
 - essence -> kon pilin
 - acid -> telo pakala
