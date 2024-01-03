@@ -17,6 +17,4 @@ Translated files:
 - Achievements.txt
 - Banker.txt
 - Charm Slug.txt
-
-In progress:
 - Cornifer.txt
