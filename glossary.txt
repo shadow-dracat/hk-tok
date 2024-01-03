@@ -58,7 +58,6 @@ CHARACTERS:
 - Lurien the Watcher -> pipi lukin Luli
 - Monomon the teacher -> pipi sona Monomon
 - Herra the Beast -> pipi monsuta Ela
-- The Hollow Knigh -> pipi utala pi insa ala
 - The Radiance -> sewi suno
 - Grimm Troupe -> kulupu musi Kin
 - Troupe Master Grimm -> pipi lawa Kin pi kulupu musi
@@ -105,4 +104,3 @@ OTHER:
 - game completion -> mute musi
 - ritual -> pali sewi
 - game achievemt -> pali wile
-

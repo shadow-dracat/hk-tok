@@ -31,7 +31,7 @@
 <entry name="PANTHEON2_TEXT">o pini pona e utala ale lon tomo sewi utala pi pipi sitelen</entry>
 <entry name="ACH_TITLE_TEST">ni la sina ken lukin e pali wile</entry>
 <entry name="COLOSSEUM_2_TEXT">o pini pona e utala pi pipi kama</entry>
-<entry name="PANTHEON4_TITLE">kon en kon pimeja</entry>
+<entry name="PANTHEON4_TITLE">kon walo en kon pimeja</entry>
 <entry name="METAMORPHOSIS_TEXT">o weka e pipi linja ale tan poki</entry>
 <entry name="DREAM_SOUL_MASTER_DEFEAT_TITLE">ken moli</entry>
 <entry name="NEGLECT_TITLE">pali ala</entry>
@@ -47,8 +47,8 @@
 <entry name="ASCENSION_TITLE">tawa sewi</entry>
 <entry name="HIDDEN_ACHIEVEMENT">pali wile ni li len</entry>
 <entry name="NAILSMITH_KILL_TITLE">pona ale</entry>
-<entry name="ATTUNEMENT_TEXT">o kama jo e kon nasa 600</entry>
-<entry name="GRIMM_TITLE">musi lukin suli</entry>
+<entry name="ATTUNEMENT_TEXT">o kama jo e kon pilin 600</entry>
+<entry name="GRIMM_TITLE">musi suli</entry>
 <entry name="WORLDSOUL_TITLE">kon pi ma ale</entry>
 <entry name="WATCHER_TITLE">pipi lukin</entry>
 <entry name="HORNET_1_TITLE">sona utala pi wawa sina</entry>
