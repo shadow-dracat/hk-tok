@@ -104,3 +104,4 @@ OTHER:
 - game completion -> mute musi
 - ritual -> pali sewi
 - game achievemt -> pali wile
+- the Seals - ijo pi awen poki / ijo awen

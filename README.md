@@ -11,10 +11,11 @@ If you want to contribute - check out the glossary file, it has some notes and n
 Original text belongs to Team Cherry, I have no rights over that.
 When it comes to the toki pona translation, feel free to add it to your game, play, stream, whatever. Credit is appreciated, but not necessary.
 
-Current progress: 3.4/36 files.
+Current progress: 5/36 files.
 
 Translated files:
 - Achievements.txt
 - Banker.txt
 - Charm Slug.txt
 - Cornifer.txt
+- Dreamers.txt
