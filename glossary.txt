@@ -21,6 +21,7 @@ CREATURES:
 - vessel -> poki
 - shade -> kon pimeja
 - higher being/god -> sewi
+- wyrm -> pipi sewi linja
 
 OCCUPATIONS/ROLES:
 - seller/customer -> pipi esun
@@ -33,6 +34,7 @@ OCCUPATIONS/ROLES:
 - fool -> pipi nasa
 - cartographer -> pipi pi sitelen ma
 - hunter -> pipi alasa
+- Wielder -> pipi pi palisa pilin
 
 CHARACTERS:
 - The Hollow Knight -> pipi utala pi insa ala
@@ -104,4 +106,4 @@ OTHER:
 - game completion -> mute musi
 - ritual -> pali sewi
 - game achievemt -> pali wile
-- the Seals - ijo pi awen poki / ijo awen
+- the Seals -> ijo pi awen poki / ijo awen
