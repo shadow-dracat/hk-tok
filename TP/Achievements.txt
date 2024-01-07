@@ -5,7 +5,7 @@
 <entry name="COLOSSEUM_1_TEXT">o pini pona e utala pi pipi utala wawa</entry>
 <entry name="MR_MUSHROOM_TITLE">tenpo li weka</entry>
 <entry name="MR_MUSHROOM_TEXT">o tawa weka e soko Ela</entry>
-<entry name="WATCHER_TEXT">o pakala e pipi lukin Luli</entry>
+<entry name="WATCHER_TEXT">o pakala e pipi lukin Lulin</entry>
 <entry name="AWAKENING_TITLE">lape li pini</entry>
 <entry name="GRUBFRIEND_TEXT">o weka e pipi linja mute tan poki, pipi linja pi mute sama o awen</entry>
 <entry name="TRAITOR_LORD_TEXT">o anpa e pipi wawa lawa nasa</entry>

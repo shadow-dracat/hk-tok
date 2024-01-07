@@ -34,7 +34,7 @@
 <entry name="DREAMERS_EC1_4">kon pimeja lili o pakala ala e lape pi ale mi.&lt;br&gt;o tawa pimeja sina.&lt;br&gt;o pakala ala e pona pi mi ale.</entry>
 <entry name="LURIEN_CONVO_5">...awen...</entry>
 <entry name="What calls it from beyond the Seal?&lt;br&gt;The Vessel, or that captive light?"></entry>
-<entry name="DREAMERS_INSPECT_RG3">pipi lukin Luli&lt;br&gt;lon tomo lukin ona, ona li lukin e ma tomo.</entry>
+<entry name="DREAMERS_INSPECT_RG3">pipi lukin Lulin&lt;br&gt;lon tomo lukin ona, ona li lukin e ma tomo.</entry>
 <entry name="DREAMERS_EC1_2">ijo awen li ken ala weka.</entry>
 <entry name="FAKE_GREET_2">mi pona tawa sina. kama pona. o supa o lape.</entry>
 <entry name="Our King appears as bug, and I shall take him as so.But his are traits that transcend our kind. His is a mind beyond ours. Deity given form.In sleep, I shall not look upon his like again."></entry>
