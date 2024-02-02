@@ -6,7 +6,7 @@ mi wile ante e toki pi musi Hollow Knight tawa toki pona tan ni:
 3) toki pona li pona tawa mi.
 
 mi wile pana e sona pi pali mi, mi wile e ni: jan li ken pali lon ni kin la lipu Kita ni li lon.
-sina wile pali la o lukin e lipu glossary, ona li jo e sona pona e sona pi nimi ale. nasin li ken ante, taso lipu ni o pana e sona pona lon tenpo ale.
+sina wile pali la o lukin e lipu lipu_nimi.txt, ona li jo e sona pona e sona pi nimi ale. nasin li ken ante, taso lipu ni o pana e sona pona lon tenpo ale.
 
 toki musi Inli li tan kulupu musi Team Cherry, tan mi ala.
 toki pona la sina ken pana e ona lon musi sina, sina ken musi kepeken ona, sina ken pali e sitelen tawa kepeken ona, sina ken ante mute. sina pana e nimi mi la mi pilin pona, taso sina ken ni ala.
@@ -30,7 +30,7 @@ I got an idea to translate Hollow Knight into toki pona, because:
 3) I like toki pona.
 
 I also wanted to make the process public and potentially allow contributions, hence this Github page.
-If you want to contribute - check out the glossary file, it has some notes and naming conventions. Those can be changed, but the file should reflect the current standart.
+If you want to contribute - check out the lipu_nimi.txt file, it has some notes and naming conventions. Those can be changed, but the file should reflect the current standart.
 
 Original text belongs to Team Cherry, I have no rights over that.
 When it comes to the toki pona translation, feel free to add it to your game, play, stream, whatever. Credit is appreciated, but not necessary.
